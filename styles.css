@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+h1 span{
+	color:blue;
+}
+button{
+	background:blue;
+	color:white;
+}
+.delete{
+	background:red;
+	color:white;
+}
